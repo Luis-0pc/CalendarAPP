@@ -80,7 +80,7 @@ MIT License – poți folosi și modifica aplicația liber.
 
 ## ✨ Autor
 
-Creat de Ghitu Luis Federico, folosind urmatoarele biblioteci:
+Creat de Ghițu Luis Federico, folosind urmatoarele biblioteci:
 - PyQt5
 - google-api-python-client
 - google-auth-httplib2
