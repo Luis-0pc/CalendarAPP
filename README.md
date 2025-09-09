@@ -46,7 +46,7 @@ pip install PyQt5 google-api-python-client google-auth-httplib2 google-auth-oaut
 
 ## ⚙️ Configurare Google API
 
-1. Intră pe Google Cloud Console
+1. Intră pe [Google Cloud Console](https://console.cloud.google.com/)
 2. Creează un proiect nou.
 3. Activează Google Calendar API.
 4. Creează un OAuth 2.0 Client ID (tip "Desktop App").
