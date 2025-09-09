@@ -69,6 +69,7 @@ python app.py
 ## 📸 Screenshot-uri 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c1925de9-69fd-4c1b-94f1-3986b9bbc56c" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c144c06a-1f46-4de4-9d99-4fe0292fc5ae" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2de25a77-cca2-4613-9225-6615b100697e" />
 
 
 
